@@ -12,7 +12,9 @@
 
 Хочешь поставить фон на Фейсит и настроить профиль под себя? **FACEIT Absolute** — независимое расширение для браузера: свой фон, библиотека готовых изображений, прозрачность панелей, обводки и дополнительные данные FACEIT CS2.
 
-**[Установить расширение](#установка)** · **[Библиотека фонов](https://faceit.eelworg.ru/profile-library/)** · **[Скачать последний релиз](https://github.com/growlee/FACEIT-Absolute/releases/latest)** · **[Сайт проекта](https://faceit.eelworg.ru/)**
+**[Установить в Chrome](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)** · **[Установить в Firefox](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)** · **[Скачать ZIP для своего браузера](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
+
+[Все способы установки](#установка) · [Библиотека фонов](https://faceit.eelworg.ru/profile-library/) · [Сайт проекта](https://faceit.eelworg.ru/)
 
 ![Профиль FACEIT со своим красным фоном, прозрачными панелями и цветными обводками](assets/profile-red.webp)
 
@@ -105,7 +107,9 @@
 
 Want to change your FACEIT profile background and make the page your own? **FACEIT Absolute** is an independent browser extension with custom backgrounds, a background library, panel transparency, outlines, and additional FACEIT CS2 data.
 
-**[Install the extension](#installation)** · **[Background library](https://faceit.eelworg.ru/profile-library/)** · **[Download the latest release](https://github.com/growlee/FACEIT-Absolute/releases/latest)** · **[Project website](https://faceit.eelworg.ru/)**
+**[Install in Chrome](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)** · **[Install in Firefox](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)** · **[Download a ZIP for your browser](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
+
+[All installation methods](#installation) · [Background library](https://faceit.eelworg.ru/profile-library/) · [Project website](https://faceit.eelworg.ru/)
 
 ![A FACEIT profile with a custom red background, transparent panels, and colored outlines](assets/profile-red.webp)
 
