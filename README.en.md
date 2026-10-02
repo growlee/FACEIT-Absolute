@@ -24,14 +24,17 @@ Want to change your FACEIT profile background and make the page your own? **FACE
 | Profile sections          | Hide sections you do not need.                                                |
 | FACEIT CS2 statistics     | View additional player, match, and shared-match information.                  |
 
-<details>
-<summary>Another profile style</summary>
+## Profile library
 
-![A FACEIT profile with a hockey background and translucent panels](assets/profile-hockey.webp)
+Open the [library](https://faceit.eelworg.ru/profile-library/), preview the styles, and choose a ready-made background for your profile.
 
-</details>
+![Browsing and previewing styles in the FACEIT Absolute profile library](assets/profile-library.gif)
 
-The screenshots show real profile customization examples. Available features depend on the extension version; some require a connected FACEIT account or Absolute Premium. Requirements are shown inside the extension.
+## Another profile style
+
+![An animated FACEIT Absolute profile customization example](assets/profile-customization.gif)
+
+The images and animations show real profile customization examples. Available features depend on the extension version; some require a connected FACEIT account or Absolute Premium. Requirements are shown inside the extension.
 
 ## Installation
 
@@ -61,6 +64,8 @@ For Firefox, use Firefox Add-ons. The Firefox ZIP in GitHub releases is unsigned
 3. Choose a background from the [library](https://faceit.eelworg.ru/profile-library/) or upload an image through the profile customization settings.
 4. Adjust transparency, outlines, and visible sections, then save your changes.
 
+![How to set a custom FACEIT background with FACEIT Absolute](assets/how-to-background.gif)
+
 Check the preview when choosing a library background: applying it replaces your current background and its settings after confirmation. Background customization does not change player statistics or match results.
 
 ## Questions
@@ -86,7 +91,6 @@ This public repository contains documentation and release packages. Source code 
 - [Telegram support](https://t.me/faceitabsolutesupport_bot)
 - [Report a bug or suggest an improvement](https://github.com/growlee/FACEIT-Absolute/issues)
 - [Current privacy policy](https://eelworg.ru/privacy/faceit-absolute/)
-- [Migrated privacy policy materials](privacy/README.md)
 - [All releases and checksums](https://github.com/growlee/FACEIT-Absolute/releases)
 
 Do not post passwords, tokens, cookies, or other private data in Issues. Contact support for private requests.

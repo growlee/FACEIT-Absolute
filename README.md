@@ -6,9 +6,9 @@
   <a href="#русский">Русский</a> · <a href="#english">English</a>
 </p>
 
-# FACEIT Absolute — свой фон и оформление профиля FACEIT
-
 ## Русский
+
+### FACEIT Absolute — свой фон и оформление профиля
 
 Хочешь поставить фон на Фейсит и настроить профиль под себя? **FACEIT Absolute** — независимое расширение для браузера: свой фон, библиотека готовых изображений, прозрачность панелей, обводки и дополнительные данные FACEIT CS2.
 
@@ -26,14 +26,17 @@
 | Нужные блоки           | Скрыть лишние разделы профиля.                                     |
 | Статистика FACEIT CS2  | Посмотреть дополнительные данные игроков, матчей и совместных игр. |
 
-<details>
-<summary>Ещё один пример оформления</summary>
+### Библиотека профилей
 
-![Профиль FACEIT с хоккейным фоном и полупрозрачными блоками](assets/profile-hockey.webp)
+Открой [библиотеку](https://faceit.eelworg.ru/profile-library/), посмотри превью и выбери готовый фон для своего профиля.
 
-</details>
+![Выбор и просмотр оформления в библиотеке профилей FACEIT Absolute](assets/profile-library.gif)
 
-Скриншоты показывают реальные примеры оформления профиля. Набор доступных функций зависит от версии расширения; отдельные возможности требуют подключения FACEIT или Absolute Premium. Условия показаны внутри расширения.
+### Ещё один пример оформления
+
+![Анимированный пример оформления профиля FACEIT Absolute](assets/profile-customization.gif)
+
+Изображения и анимации показывают реальные примеры оформления профиля. Набор доступных функций зависит от версии расширения; отдельные возможности требуют подключения FACEIT или Absolute Premium. Условия показаны внутри расширения.
 
 ### Установка
 
@@ -63,6 +66,8 @@
 3. Выбери фон в [библиотеке](https://faceit.eelworg.ru/profile-library/) или загрузи своё изображение через настройки оформления профиля.
 4. Настрой прозрачность, обводки и нужные блоки, затем сохрани изменения.
 
+![Как поставить свой фон на Фейсит через FACEIT Absolute](assets/how-to-background.gif)
+
 При замене фона из библиотеки проверь превью: применение заменяет текущий фон и его настройки после подтверждения. Фон не меняет статистику игрока или результаты матчей.
 
 ### Вопросы
@@ -88,7 +93,6 @@
 - [Поддержка в Telegram](https://t.me/faceitabsolutesupport_bot)
 - [Сообщить об ошибке или предложить улучшение](https://github.com/growlee/FACEIT-Absolute/issues)
 - [Действующая политика приватности](https://eelworg.ru/privacy/faceit-absolute/)
-- [Перенесённые материалы политики приватности](privacy/README.md)
 - [Все релизы и контрольные суммы](https://github.com/growlee/FACEIT-Absolute/releases)
 
 Не публикуй в Issues пароли, токены, cookies и другие личные данные. Для приватного обращения используй поддержку.
@@ -115,14 +119,17 @@ Want to change your FACEIT profile background and make the page your own? **FACE
 | Profile sections          | Hide sections you do not need.                                                |
 | FACEIT CS2 statistics     | View additional player, match, and shared-match information.                  |
 
-<details>
-<summary>Another profile style</summary>
+### Profile library
 
-![A FACEIT profile with a hockey background and translucent panels](assets/profile-hockey.webp)
+Open the [library](https://faceit.eelworg.ru/profile-library/), preview the styles, and choose a ready-made background for your profile.
 
-</details>
+![Browsing and previewing styles in the FACEIT Absolute profile library](assets/profile-library.gif)
 
-The screenshots show real profile customization examples. Available features depend on the extension version; some require a connected FACEIT account or Absolute Premium. Requirements are shown inside the extension.
+### Another profile style
+
+![An animated FACEIT Absolute profile customization example](assets/profile-customization.gif)
+
+The images and animations show real profile customization examples. Available features depend on the extension version; some require a connected FACEIT account or Absolute Premium. Requirements are shown inside the extension.
 
 ### Installation
 
@@ -152,6 +159,8 @@ For Firefox, use Firefox Add-ons. The Firefox ZIP in GitHub releases is unsigned
 3. Choose a background from the [library](https://faceit.eelworg.ru/profile-library/) or upload an image through the profile customization settings.
 4. Adjust transparency, outlines, and visible sections, then save your changes.
 
+![How to set a custom FACEIT background with FACEIT Absolute](assets/how-to-background.gif)
+
 Check the preview when choosing a library background: applying it replaces your current background and its settings after confirmation. Background customization does not change player statistics or match results.
 
 ### Questions
@@ -177,7 +186,6 @@ This public repository contains documentation and release packages. Source code 
 - [Telegram support](https://t.me/faceitabsolutesupport_bot)
 - [Report a bug or suggest an improvement](https://github.com/growlee/FACEIT-Absolute/issues)
 - [Current privacy policy](https://eelworg.ru/privacy/faceit-absolute/)
-- [Migrated privacy policy materials](privacy/README.md)
 - [All releases and checksums](https://github.com/growlee/FACEIT-Absolute/releases)
 
 Do not post passwords, tokens, cookies, or other private data in Issues. Contact support for private requests.
