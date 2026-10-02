@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="FACEIT Absolute — Your profile. Your style." width="100%" />
+  <img src="assets/banner.jpg" alt="FACEIT Absolute — кастомизация профиля / profile customization" width="100%" />
 </p>
 
 <p align="center">
