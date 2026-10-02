@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">Русский</a> · <strong>English</strong>
+  <a href="https://github.com/growlee/FACEIT-Absolute#русский">Русский</a> · <strong>English</strong>
 </p>
 
 # FACEIT Absolute — custom FACEIT profile backgrounds
