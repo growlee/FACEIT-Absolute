@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy for FACEIT ABSOLUTE</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family:
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          sans-serif;
+        line-height: 1.6;
+      }
+
+      body {
+        margin: 0;
+        background: Canvas;
+        color: CanvasText;
+      }
+
+      main {
+        box-sizing: border-box;
+        max-width: 820px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(2rem, 4vw, 3rem);
+        line-height: 1.1;
+      }
+
+      h2 {
+        margin-top: 32px;
+        font-size: 1.25rem;
+      }
+
+      p,
+      ul {
+        font-size: 1rem;
+      }
+
+      .updated {
+        margin-top: 0;
+        color: color-mix(in srgb, CanvasText 68%, Canvas);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Privacy Policy for FACEIT ABSOLUTE</h1>
+      <p class="updated">Last updated: September 10, 2026</p>
+
+      <p>
+        FACEIT ABSOLUTE is a browser extension that adds FACEIT CS2 profile, lobby, map, match, and
+        encounter information to FACEIT pages. It also provides optional FACEIT account connection,
+        profile customization, demo upload, feedback, premium purchases, and automation features.
+      </p>
+
+      <h2>Scope</h2>
+      <p>
+        The extension reads page context only on the FACEIT and FACEIT ABSOLUTE pages listed in its
+        Chrome manifest. It does not monitor general browsing history.
+      </p>
+
+      <h2>Data the Extension Handles</h2>
+      <ul>
+        <li>
+          <strong>FACEIT page and account data:</strong> page URLs and visible content needed to
+          identify the current profile, player nickname or ID, match room, lobby, map, and encounter
+          context. When account connection is used, the extension stores the FACEIT player ID,
+          nickname, connection status, and a FACEIT ABSOLUTE authentication session.
+        </li>
+        <li>
+          <strong>Local settings and content:</strong> feature settings, map filters, auto-accept
+          and auto-reload preferences, chat message text and preferences, profile appearance
+          settings, player notes, recent diagnostic entries, and identifiers used to avoid repeating
+          automated actions.
+        </li>
+        <li>
+          <strong>Cached data:</strong> FACEIT statistics, player and match identifiers, encounter
+          results, profile customization metadata, and related timestamps used to reduce repeated
+          requests and improve responsiveness.
+        </li>
+        <li>
+          <strong>Service and reliability data:</strong> a randomly generated extension client ID,
+          extension version, detected FACEIT nickname or player ID, profile background settings,
+          installation and last-seen timestamps, and the IP address used to contact the FACEIT
+          ABSOLUTE backend. While a FACEIT page is in use, the extension sends a service heartbeat
+          no more than once per hour unless the detected account changes.
+        </li>
+        <li>
+          <strong>Data you submit:</strong> profile background images and settings, optional
+          profile-library submissions, demo files and their filenames, types, sizes, parsed results
+          and processing metrics, and feedback messages with any optional contact details and
+          diagnostics you choose to send.
+        </li>
+        <li>
+          <strong>Premium purchase data:</strong> the selected tariff, price, internal order ID,
+          payment-provider ID and status, premium validity period, and order timestamps. Payment
+          card and bank-account details are entered on the payment provider's form and are not sent
+          to or stored by FACEIT ABSOLUTE.
+        </li>
+      </ul>
+
+      <h2>How We Use Data</h2>
+      <p>We use this data only to:</p>
+      <ul>
+        <li>Display and calculate the FACEIT statistics and context requested by the user.</li>
+        <li>Connect a FACEIT account and authorize account-owned features.</li>
+        <li>Save settings, notes, caches, profile customizations, and feature state.</li>
+        <li>Upload and parse user-selected CS2 demo files.</li>
+        <li>Publish a profile customization when the user explicitly submits it to the library.</li>
+        <li>
+          Initiate a premium purchase and apply, reconcile, cancel, or refund its entitlement.
+        </li>
+        <li>Deliver user-configured actions on FACEIT pages, including chat messages.</li>
+        <li>
+          Respond to feedback and maintain, secure, troubleshoot, and measure service reliability.
+        </li>
+      </ul>
+
+      <h2>Where Data Is Sent</h2>
+      <ul>
+        <li>
+          <strong>FACEIT services:</strong> the extension uses FACEIT pages and APIs for account
+          connection, statistics, and user-requested FACEIT actions. For one statistics timeline
+          request, Chrome sends the user's existing FACEIT session credentials directly to FACEIT;
+          the extension does not read or store the user's FACEIT password.
+        </li>
+        <li>
+          <strong>FACEIT ABSOLUTE services:</strong> the backend API and project-operated profile
+          library at <code>faceit-api.eelworg.ru</code> and <code>faceit.eelworg.ru</code> receive
+          the data required for statistics, account connection, service heartbeats, feedback,
+          profile customizations, and demo processing. The project-operated media host at
+          <code>faceit-cdn.eelworg.ru</code> receives browser requests when it delivers profile
+          images.
+        </li>
+        <li>
+          <strong>T-Bank:</strong> when you choose to buy premium, the backend sends the order ID,
+          amount, purchase description, and return and notification URLs to T-Bank's internet
+          acquiring service. Your browser is then redirected to T-Bank's payment form. T-Bank
+          processes the payment details and returns the payment ID and status to the backend.
+        </li>
+      </ul>
+      <p>
+        Authorized project administrators may review user-submitted feedback, diagnostics,
+        profile-library submissions, and records needed for support, moderation, security, or abuse
+        prevention. A profile customization becomes publicly visible only when it is published to
+        the public profile library or applied to a public FACEIT profile.
+      </p>
+      <p>We do not sell user data or share it with advertising platforms or data brokers.</p>
+      <p>We do not use user data for advertising, lending, or creditworthiness decisions.</p>
+
+      <h2>Storage and Retention</h2>
+      <ul>
+        <li>
+          Settings, notes, diagnostics, authentication state, and caches are stored in the browser's
+          extension storage or extension-scoped IndexedDB. They remain until replaced, cleared,
+          disconnected, or the extension's local data is removed. Cached records use expiration
+          times and are refreshed or replaced over time.
+        </li>
+        <li>
+          A FACEIT ABSOLUTE authentication session can remain valid for up to 180 days.
+          Disconnecting FACEIT clears the local authentication session and revokes that server
+          session. Other connected browsers or extension installations keep their own sessions.
+        </li>
+        <li>
+          Raw demo files are normally removed within 24 hours after successful processing or within
+          72 hours after a failed upload. Demo job metadata, parsed results, and provenance records
+          currently have no fixed automatic deletion period.
+        </li>
+        <li>
+          The backend keeps the most recent IP address received with each extension heartbeat.
+          Feedback stores the submission IP and is limited to the latest 100 feedback records.
+        </li>
+        <li>
+          Active profile customizations can be deleted by the connected user. Profile revision,
+          moderation, and other service records may remain after the active customization is
+          removed.
+        </li>
+        <li>
+          Premium order records include the selected tariff, amount, order and payment identifiers,
+          status, entitlement application time, and timestamps. The current service does not define
+          a fixed automatic deletion period for these accounting records.
+        </li>
+        <li>
+          The current service does not define a fixed automatic deletion period for extension
+          heartbeat records, profile history, or parsed demo summaries.
+        </li>
+      </ul>
+
+      <h2>Referral Analytics</h2>
+      <p>
+        Referral links record aggregate visits and a random visit identifier, stored in an HTTP-only
+        first-party cookie for up to 30 days. Raw visit identifiers are removed after 35 days when
+        the next referral visit is processed. Aggregate link counts remain.
+      </p>
+      <p>
+        New installations report a random extension-instance identifier, installation and first-use
+        times, and optional confirmed FACEIT connection. A welcome page opens once after
+        installation to associate the last eligible referral source. FACEIT login is not required.
+        Activity on FACEIT is recorded only while the extension is enabled; daily activity records
+        are limited to the first 14 days after first use. We also retain the latest activity time to
+        report use during the past 14 days. On removal, supported browsers open a confirmation page
+        that reports the removal with a separate token restricted to this signal; this token does
+        not grant access to the extension or account. Removal counts depend on this page reaching
+        our service. We retain the source association and these bounded records for source-level
+        reports; no automatic deletion period is currently defined for instance records. These
+        counts describe extension instances, not unique people. The collection does not include
+        browsing history from other websites. The service owner can view known FACEIT nicknames for
+        attributed installations after confirmed account connection, using the existing client
+        record. Installations without a known nickname are shown separately. This list is not
+        public. Removing the extension removes its local referral identifier but does not
+        automatically delete server records.
+      </p>
+
+      <h2>Your Choices</h2>
+      <ul>
+        <li>Optional uploads, profile-library publication, and feedback require a user action.</li>
+        <li>FACEIT account connection can be disconnected from the extension.</li>
+        <li>Local notes, settings, logs, and other extension data can be cleared from Chrome.</li>
+        <li>Removing the extension removes its extension-scoped local data from Chrome.</li>
+        <li>A connected user can delete the active profile customization from the extension.</li>
+      </ul>
+
+      <h2>Security and Remote Code</h2>
+      <p>
+        Network requests use HTTPS. The browser extension does not receive or store the user's
+        FACEIT password, the backend FACEIT API key, or FACEIT OAuth access or refresh tokens. The
+        backend receives the OAuth authorization code and access token only to complete account
+        connection and retrieve FACEIT identity data; it does not store FACEIT OAuth access or
+        refresh tokens. The extension stores a FACEIT ABSOLUTE session token for authenticated
+        extension features.
+      </p>
+      <p>
+        The extension does not execute remote code. Its executable logic is included in the
+        extension package; remote services provide data, configuration values, and user-selected
+        media only.
+      </p>
+
+      <h2>Limited Use</h2>
+      <p>
+        Data is collected, used, and transferred only as necessary to provide or improve the
+        extension's disclosed features and related security, support, moderation, performance, and
+        reliability operations.
+      </p>
+      <p>
+        FACEIT ABSOLUTE's use and transfer of user data complies with the Chrome Web Store User Data
+        Policy, including the Limited Use requirements.
+      </p>
+
+      <h2>Policy Changes</h2>
+      <p>
+        This policy will be updated when the extension's data practices change. The date at the top
+        of this page identifies the current version.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        For privacy questions or requests, contact
+        <a href="https://t.me/faceitabsolutesupport_bot">@faceitabsolutesupport_bot</a> on Telegram.
+        Do not send passwords, authentication tokens, demo files, or other sensitive data.
+      </p>
+    </main>
+  </body>
+</html>
