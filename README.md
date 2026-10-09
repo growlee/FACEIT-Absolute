@@ -94,7 +94,7 @@
 
 - [Поддержка в Telegram](https://t.me/faceitabsolutesupport_bot)
 - [Сообщить об ошибке или предложить улучшение](https://github.com/growlee/FACEIT-Absolute/issues)
-- [Действующая политика приватности](https://eelworg.ru/privacy/faceit-absolute/)
+- [Действующая политика приватности](https://faceit.eelworg.ru/privacy)
 - [Все релизы и контрольные суммы](https://github.com/growlee/FACEIT-Absolute/releases)
 
 Не публикуй в Issues пароли, токены, cookies и другие личные данные. Для приватного обращения используй поддержку.
@@ -189,7 +189,7 @@ This public repository contains documentation and release packages. Source code 
 
 - [Telegram support](https://t.me/faceitabsolutesupport_bot)
 - [Report a bug or suggest an improvement](https://github.com/growlee/FACEIT-Absolute/issues)
-- [Current privacy policy](https://eelworg.ru/privacy/faceit-absolute/)
+- [Current privacy policy](https://faceit.eelworg.ru/privacy)
 - [All releases and checksums](https://github.com/growlee/FACEIT-Absolute/releases)
 
 Do not post passwords, tokens, cookies, or other private data in Issues. Contact support for private requests.

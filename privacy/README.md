@@ -1,6 +1,6 @@
 # Политика приватности / Privacy policy
 
-**[Действующая политика / Current policy](https://eelworg.ru/privacy/faceit-absolute/)**
+**[Действующая политика / Current policy](https://faceit.eelworg.ru/privacy)**
 
 Материалы перенесены из прежнего публичного репозитория `growlee/faceit-absolute-privacy` при объединении публичной документации FACEIT Absolute.
 
