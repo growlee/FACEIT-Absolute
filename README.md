@@ -2,6 +2,18 @@
   <img src="assets/banner.jpg" alt="FACEIT Absolute — кастомизация профиля / profile customization" width="100%" />
 </p>
 
+## FACEIT Absolute 2.3.0
+
+**Видео профиля до 30 секунд · Компактные клан-теги · Улучшенное сохранение цветов**
+
+Свежий выпуск с настройкой видеофона, обновлённым меню клан-тегов и исправлениями оформления FACEIT. Подробности, установка и ограничения проверки — на [странице релиза 2.3.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.3.0).
+
+**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Opera.zip)**
+
+Версии в магазинах могут отличаться. Firefox ZIP предназначен для тестирования и загрузки в Mozilla Add-ons; постоянная установка требует подписи Mozilla.
+
+---
+
 <p align="center">
   <a href="#русский">Русский</a> · <a href="#english">English</a>
 </p>
