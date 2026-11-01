@@ -2,13 +2,13 @@
   <img src="assets/banner.jpg" alt="FACEIT Absolute — кастомизация профиля / profile customization" width="100%" />
 </p>
 
-## FACEIT Absolute 2.3.0
+## FACEIT Absolute 2.4.0
 
-**Видео профиля до 30 секунд · Компактные клан-теги · Улучшенное сохранение цветов**
+**Оформление лобби · Клан-теги на аватарах · Свой текст кнопки поиска**
 
-Свежий выпуск с настройкой видеофона, обновлённым меню клан-тегов и исправлениями оформления FACEIT. Подробности, установка и ограничения проверки — на [странице релиза 2.3.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.3.0).
+Настраивай фон и прозрачность лобби, расположение и видимость клан-тегов, текст кнопки поиска матча. В выпуск также вошли исправления RU/EN, аудио после переходов между страницами и диагностики. Подробности, установка и ограничения проверки — на [странице релиза 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0).
 
-**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Opera.zip)**
+**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Opera.zip)**
 
 Версии в магазинах могут отличаться. Firefox ZIP предназначен для тестирования и загрузки в Mozilla Add-ons; постоянная установка требует подписи Mozilla.
 
@@ -104,6 +104,8 @@
 
 ### Поддержка и приватность
 
+Автоматические отчёты об ошибках включены по умолчанию, если настройка ещё не задана; ранее выбранное отключение сохраняется. Отключить их можно в разделе «Информация». Отчёты содержат ограниченные диагностические данные и идентификатор установки; подробности — в [политике приватности](https://faceit.eelworg.ru/privacy).
+
 - [Поддержка в Telegram](https://t.me/faceitabsolutesupport_bot)
 - [Сообщить об ошибке или предложить улучшение](https://github.com/growlee/FACEIT-Absolute/issues)
 - [Действующая политика приватности](https://faceit.eelworg.ru/privacy)
@@ -198,6 +200,8 @@ Download the ZIP for the same browser, extract it into your existing extension f
 This public repository contains documentation and release packages. Source code and server components are kept in a separate private repository.
 
 ### Support and privacy
+
+Automatic error reports are enabled by default when no preference is set; an existing opt-out is preserved. You can disable them in Information. Reports contain limited diagnostic data and an installation identifier; see the [privacy policy](https://faceit.eelworg.ru/privacy).
 
 - [Telegram support](https://t.me/faceitabsolutesupport_bot)
 - [Report a bug or suggest an improvement](https://github.com/growlee/FACEIT-Absolute/issues)

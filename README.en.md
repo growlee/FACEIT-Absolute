@@ -2,13 +2,13 @@
   <img src="assets/banner.jpg" alt="FACEIT Absolute — кастомизация профиля / profile customization" width="100%" />
 </p>
 
-## FACEIT Absolute 2.3.0
+## FACEIT Absolute 2.4.0
 
-**Profile videos up to 30 seconds · Compact clan tags · Improved color saving**
+**Lobby customization · Avatar clan tags · Custom matchmaking button text**
 
-The latest release brings profile video controls, a compact clan-tag menu, and FACEIT styling fixes. Read the [2.3.0 release notes](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.3.0) for changes, installation, and validation limits.
+Customize lobby backgrounds and transparency, clan-tag placement and visibility, and the matchmaking button text. This release also improves RU/EN labels, audio after page navigation, and diagnostics. Read the [2.4.0 release notes](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0) for changes, installation, and validation limits.
 
-**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.3.0/FACEIT-ABSOLUTE-2.3.0-Opera.zip)**
+**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Opera.zip)**
 
 Store versions may differ. The Firefox ZIP is for testing and Mozilla Add-ons submission; permanent installation requires Mozilla signing.
 
@@ -101,6 +101,8 @@ Download the ZIP for the same browser, extract it into your existing extension f
 This public repository contains documentation and release packages. Source code and server components are kept in a separate private repository.
 
 ## Support and privacy
+
+Automatic error reports are enabled by default when no preference is set; an existing opt-out is preserved. You can disable them in Information. Reports contain limited diagnostic data and an installation identifier; see the [privacy policy](https://faceit.eelworg.ru/privacy).
 
 - [Telegram support](https://t.me/faceitabsolutesupport_bot)
 - [Report a bug or suggest an improvement](https://github.com/growlee/FACEIT-Absolute/issues)
