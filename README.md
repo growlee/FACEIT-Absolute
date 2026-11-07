@@ -2,15 +2,15 @@
   <img src="assets/banner.jpg" alt="FACEIT Absolute — кастомизация профиля / profile customization" width="100%" />
 </p>
 
-## FACEIT Absolute 2.4.0
+## FACEIT Absolute 2.5.0
 
-**Оформление лобби · Клан-теги на аватарах · Свой текст кнопки поиска**
+**Энергосбережение в матче · Положение клан-тега · Улучшенное оформление**
 
-Настраивай фон и прозрачность лобби, расположение и видимость клан-тегов, текст кнопки поиска матча. В выпуск также вошли исправления RU/EN, аудио после переходов между страницами и диагностики. Подробности, установка и ограничения проверки — на [странице релиза 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0).
+Энергосбережение во время матча, положение собственного клан-тега, улучшения чёрно-белого оформления и кнопки поиска, исправления аудио и диагностики. Подробности, установка и границы проверки — на [странице релиза 2.5.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.5.0).
 
-**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Chrome.zip) · [Firefox ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Firefox.zip) · [Edge ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Edge.zip) · [Opera ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.4.0/FACEIT-ABSOLUTE-2.4.0-Opera.zip)**
+**[Chrome ZIP](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.5.0/FACEIT-ABSOLUTE-2.5.0-chrome-github.zip) · [Firefox ZIP — unsigned](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.5.0/FACEIT-ABSOLUTE-2.5.0-firefox-github.zip) · [SHA-256](https://github.com/growlee/FACEIT-Absolute/releases/download/v2.5.0/SHA256SUMS.txt)**
 
-Версии в магазинах могут отличаться. Firefox ZIP предназначен для тестирования и загрузки в Mozilla Add-ons; постоянная установка требует подписи Mozilla.
+Версия 2.5.0 доступна на GitHub; версии в магазинах могут отличаться. Firefox ZIP не подписан и предназначен для временного тестирования; постоянная установка доступна через Firefox Add-ons.
 
 ---
 
@@ -24,7 +24,7 @@
 
 Хочешь поставить фон на Фейсит и настроить профиль под себя? **FACEIT Absolute** — независимое расширение для браузера: свой фон, библиотека готовых изображений, прозрачность панелей, обводки и дополнительные данные FACEIT CS2.
 
-**[Установить в Chrome](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)** · **[Установить в Firefox](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)** · **[Скачать ZIP для своего браузера](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
+**[Установить в Chrome](https://faceit.eelworg.ru/r/l_yjJM01t2o4sTsH)** · **[Установить в Firefox](https://faceit.eelworg.ru/r/PmGEU43eYuhbEofi)** · **[Скачать ZIP для своего браузера](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
 
 [Все способы установки](#установка) · [Библиотека фонов](https://faceit.eelworg.ru/profile-library/) · [Сайт проекта](https://faceit.eelworg.ru/)
 
@@ -54,24 +54,24 @@
 
 ### Установка
 
-| Браузер        | Рекомендуемый способ                                                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google Chrome  | [Chrome Web Store](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)                                                |
-| Firefox        | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)                                                                           |
-| Microsoft Edge | Установка из Chrome Web Store или ZIP для Edge из [релиза](https://github.com/growlee/FACEIT-Absolute/releases/latest).                                      |
-| Opera          | Установка из Chrome Web Store, если поддерживается вашей версией, или ZIP для Opera из [релиза](https://github.com/growlee/FACEIT-Absolute/releases/latest). |
+| Браузер        | Рекомендуемый способ                                                                                                                                                   |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Chrome  | [Chrome Web Store](https://faceit.eelworg.ru/r/l_yjJM01t2o4sTsH)                                                                                                       |
+| Firefox        | [Firefox Add-ons](https://faceit.eelworg.ru/r/PmGEU43eYuhbEofi)                                                                                                        |
+| Microsoft Edge | Установка из Chrome Web Store или ZIP для Edge из [релиза 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0).                                      |
+| Opera          | Установка из Chrome Web Store, если поддерживается вашей версией, или ZIP для Opera из [релиза 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0). |
 
 Установка выполняется на компьютере. Версии в магазинах и на GitHub могут отличаться.
 
 ### Ручная установка в Chrome, Edge или Opera
 
-1. Открой [последний релиз](https://github.com/growlee/FACEIT-Absolute/releases/latest) и скачай ZIP для своего браузера.
+1. Для Chrome открой [релиз 2.5.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.5.0), для Edge или Opera — [релиз 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0). Скачай ZIP для своего браузера.
 2. Распакуй архив в отдельную папку.
 3. Открой страницу расширений: `chrome://extensions`, `edge://extensions` или `opera://extensions`.
 4. Включи режим разработчика и выбери «Загрузить распакованное расширение» / «Load unpacked».
 5. Укажи папку, в которой находится `manifest.json`.
 
-Для Firefox используй магазин дополнений. ZIP Firefox в GitHub-релизах не подписан Mozilla и не предназначен для постоянной установки в обычный Firefox; он доступен для тестирования и ручной загрузки в магазин.
+Для Firefox используй магазин дополнений. ZIP Firefox в GitHub-релизах не подписан Mozilla и не предназначен для постоянной установки в обычный Firefox; он доступен для временного тестирования.
 
 ### Как поставить фон на Фейсит
 
@@ -119,9 +119,11 @@
 
 ### FACEIT Absolute — custom FACEIT profile backgrounds
 
+In-match power saving, own clan-tag placement, refined grayscale and matchmaking labels, and audio/diagnostic fixes. Read the [2.5.0 release notes](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.5.0) for changes, installation, and validation limits.
+
 Want to change your FACEIT profile background and make the page your own? **FACEIT Absolute** is an independent browser extension with custom backgrounds, a background library, panel transparency, outlines, and additional FACEIT CS2 data.
 
-**[Install in Chrome](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)** · **[Install in Firefox](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)** · **[Download a ZIP for your browser](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
+**[Install in Chrome](https://faceit.eelworg.ru/r/l_yjJM01t2o4sTsH)** · **[Install in Firefox](https://faceit.eelworg.ru/r/PmGEU43eYuhbEofi)** · **[Download a ZIP for your browser](https://github.com/growlee/FACEIT-Absolute/releases/latest)**
 
 [All installation methods](#installation) · [Background library](https://faceit.eelworg.ru/profile-library/) · [Project website](https://faceit.eelworg.ru/)
 
@@ -151,24 +153,24 @@ The images and animations show real profile customization examples. Available fe
 
 ### Installation
 
-| Browser        | Recommended method                                                                                                                                                      |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google Chrome  | [Chrome Web Store](https://chromewebstore.google.com/detail/faceit-absolute/immjippehkkpphboodnbbchgmpabmpec)                                                           |
-| Firefox        | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/faceit-absolute/)                                                                                      |
-| Microsoft Edge | Install from Chrome Web Store or use the Edge ZIP from the [latest release](https://github.com/growlee/FACEIT-Absolute/releases/latest).                                |
-| Opera          | Install from Chrome Web Store if supported by your version, or use the Opera ZIP from the [latest release](https://github.com/growlee/FACEIT-Absolute/releases/latest). |
+| Browser        | Recommended method                                                                                                                                                     |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Chrome  | [Chrome Web Store](https://faceit.eelworg.ru/r/l_yjJM01t2o4sTsH)                                                                                                       |
+| Firefox        | [Firefox Add-ons](https://faceit.eelworg.ru/r/PmGEU43eYuhbEofi)                                                                                                        |
+| Microsoft Edge | Install from Chrome Web Store or use the Edge ZIP from [release 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0).                                |
+| Opera          | Install from Chrome Web Store if supported by your version, or use the Opera ZIP from [release 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0). |
 
 Install on a desktop computer. Browser-store versions may differ from GitHub releases.
 
 ### Manual installation in Chrome, Edge, or Opera
 
-1. Open the [latest release](https://github.com/growlee/FACEIT-Absolute/releases/latest) and download the ZIP for your browser.
+1. For Chrome, open [release 2.5.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.5.0); for Edge or Opera, open [release 2.4.0](https://github.com/growlee/FACEIT-Absolute/releases/tag/v2.4.0). Download the ZIP for your browser.
 2. Extract the archive into a separate folder.
 3. Open the extensions page: `chrome://extensions`, `edge://extensions`, or `opera://extensions`.
 4. Enable developer mode and select **Load unpacked**.
 5. Select the folder containing `manifest.json`.
 
-For Firefox, use Firefox Add-ons. The Firefox ZIP in GitHub releases is unsigned and cannot be permanently installed in standard Firefox; it is provided for testing and manual store submission.
+For Firefox, use Firefox Add-ons. The Firefox ZIP in GitHub releases is unsigned and cannot be permanently installed in standard Firefox; it is provided for temporary testing.
 
 ### How to change your FACEIT background
 
